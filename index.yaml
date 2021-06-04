@@ -1,9 +1,4 @@
 apiVersion: v1
-entries: {}
-generated: "2021-06-04T03:46:58.420679805Z"
-
-
-apiVersion: v1
 entries:
   helm-chart:
   - apiVersion: v1
@@ -14,4 +9,4 @@ entries:
     urls:
     - https://https://github.com/bawajan/helm-charts/
     version: 0.1.0
-generated: 2021-04-16T11:10:08.729368+02:00
+generated: "2021-06-04T03:46:58.420679805Z"
